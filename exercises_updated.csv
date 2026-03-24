@@ -55,6 +55,8 @@ Lat Pulldown (Cable),,lats,cable,"[""rear delts""]",84632bae-c777-4a27-9e31-45f2
 "Lat Pulldown (Cable, Wide Grip)",,lats,cable,"[""rear delts""]",3061235c-9800-4517-b233-065502d9ec23,,"[""wide grip pulldown"", ""wide lat pulldown""]"
 "Lat Pulldown (Cable, Underhand)",,lats,cable,"[""rear delts""]",17253df3-4776-4770-855f-b40d494144d3,,"[""underhand pulldown"", ""reverse grip pulldown"", ""supinated pulldown""]"
 Lat Pulldown (Machine),,lats,machine,"[""rear delts""]",98ce2942-6207-4767-840f-340ebc1ca2c5,,"[""machine pulldown"", ""machine lat pulldown""]"
+"Lat Pulldown (Machine, Unilateral)",,lats,machine,"[""rear delts""]",0cf732b2-3dc2-44a3-bb4b-97e12f718737,,"[""single arm machine lat pulldown"", ""one arm machine lat pulldown""]"
+"Lat Pulldown (Cable, Unilateral)",,lats,cable,"[""rear delts""]",79aa5a1e-3de4-4be5-ad53-3d307fa81dc1,,"[""single arm cable lat pulldown"", ""one arm cable lat pulldown""]"
 Lat Pulldown (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",9226d79e-9980-4582-8f83-af78a57b8827,,"[""plate loaded pulldown"", ""hammer strength pulldown""]"
 Lat Pullover (Machine),,lats,machine,[],88476400-d03e-4b6f-8626-cff479d7e2f2,,"[""machine pullover""]"
 Lat Pullover (Dumbbell),,lats,dumbbell,"[""chest""]",0612dce4-93b8-4dd4-ac65-102630f256cc,,"[""dumbbell pullover"", ""db pullover"", ""pullover""]"
