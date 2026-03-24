@@ -1,211 +1,210 @@
-name,instruction,muscle_group,equipment,secondary_muscle_group,exercise_id,image_url
-Bench Press (Barbell),,chest,barbell,"[""front delts""]",9b998e0f-0c83-4d07-bb12-71a6021f3b99,
-Bench Press (Barbell, Wide Grip),,chest,barbell,"[""front delts""]",d28c1e46-2168-4960-aaba-e1640c89e3b4,
-Bench Press (Dumbbell),,chest,dumbbell,"[""front delts""]",4debdd9e-9039-4eb0-8789-31e8212fc51d,
-Bench Press (Smith),,chest,smith,"[""front delts""]",82dca7ac-8f91-44bd-bf76-eb384cd959d8,
-Incline Bench Press (Barbell),,chest,barbell,"[""front delts""]",bc087dec-f8bf-4fab-a93b-67972f6517f1,
-Incline Bench Press (Dumbbell),,chest,dumbbell,"[""front delts""]",abfc844d-a015-4dc7-844b-5f11bfe33728,
-Incline Bench Press (Smith),,chest,smith,"[""front delts""]",42ace800-4b23-42bb-906e-7e885a22ebf7,
-Decline Bench Press (Barbell),,chest,barbell,[],a72065a6-e4b8-42b6-aa33-ded38c09c177,
-Decline Bench Press (Dumbbell),,chest,dumbbell,[],4a1041b5-389a-4853-b1ce-7d3e1c6df5b9,
-Chest Press (Machine),,chest,machine,"[""front delts""]",66bdf6a6-0f6a-4f13-9866-00ba2924e26a,
-Incline Chest Press (Machine),,chest,machine,"[""front delts""]",88c91bb7-dbf3-4f3f-89f7-35c54ffad88f,
-Chest Press (Plate-Loaded),,chest,plate-loaded,"[""front delts""]",5fad20ef-d4c1-4b9d-999a-28d35f8ddb8d,
-Chest Fly (Dumbbell),,chest,dumbbell,[],a7bd2296-4c6a-42db-8b36-0712a77b4360,
-Incline Chest Fly (Dumbbell),,chest,dumbbell,"[""front delts""]",8907a793-21a8-49f5-b3a4-53e5a89af141,
-Chest Fly (Cable),,chest,cable,[],f66cf349-69c0-46a7-9681-49816c0b1ade,
-Low-to-High Chest Fly (Cable),,chest,cable,"[""front delts""]",46961afa-4016-4255-92e1-35b70ecf840d,
-High-to-Low Chest Fly (Cable),,chest,cable,[],e9200ddf-373f-4385-9eff-053e5dd3c1f8,
-Pec Deck (Machine),,chest,machine,[],05600499-e706-4d72-85e7-d31437ef6636,
-Push-Up (Bodyweight),,chest,bodyweight,"[""front delts""]",ea49b4d7-5070-4b51-bd6d-d83eacbf5727,
-Chest Dips (Bodyweight),,chest,bodyweight,"[""front delts""]",cee8a78c-29b9-42ae-8ea4-cb2d44a268fa,
-Chest Dips (Assisted),,chest,assisted,"[""front delts""]",5dcdf5e3-dbaa-4a80-b26c-3bd062c0b5b1,
-Shoulder Press (Barbell),,side delts,barbell,"[""front delts""]",c5c60b6a-804f-477f-bcff-31ea7b60eb9d,
-Shoulder Press (Dumbbell),,side delts,dumbbell,"[""front delts""]",ff3226ba-3337-4a2d-9baf-9880cef9b43f,
-Shoulder Press (Machine),,side delts,machine,"[""front delts""]",eb6099bd-ff23-491f-a6cc-920c04c1e390,
-Shoulder Press (Machine, Neutral Grip),,side delts,machine,"[""front delts""]",a3f44b30-1f9e-4e5a-8238-704c9c1a413e,
-Shoulder Press (Plate-Loaded),,side delts,plate-loaded,"[""front delts""]",14375357-6eac-4abb-a22f-b0116a958f95,
-Shoulder Press (Smith),,side delts,smith,"[""front delts""]",7d14e1f9-d803-4e02-8f13-711ac0293fdb,
-Arnold Press (Dumbbell),,side delts,dumbbell,"[""front delts"", ""rear delts""]",87e0ed48-5912-44bd-9be5-7436c3e6e0d4,
-Lateral Raise (Dumbbell),,side delts,dumbbell,[],872098d0-4e6a-4c20-8968-7392b68635dc,
-Lateral Raise (Cable),,side delts,cable,[],f3cb63f6-204b-4834-9e9c-f7c8e2ae3ec9,
-Lateral Raise (Cable, Unilateral),,side delts,cable,[],f1597dca-4b2f-4a8c-9157-f00162f22780,
-Lateral Raise (Machine),,side delts,machine,[],d3824bdc-7dba-4dc3-aeb1-f3c8bdb60ebc,
-Lateral Raise (Band),,side delts,band,[],adad3bb3-661e-4c4a-a4a0-c6e92a233178,
-Front Raise (Dumbbell),,front delts,dumbbell,[],6d485ce5-8c94-4d13-812e-dfac2bf33db8,
-Front Raise (Barbell),,front delts,barbell,[],860d8630-4b08-41ee-bf63-aca965c22203,
-Front Raise (Cable),,front delts,cable,[],2d7539f7-def4-4ce7-86f4-3e3f8d32283e,
-Rear Delt Fly (Dumbbell),,rear delts,dumbbell,"[""traps""]",1b2ed2be-dd71-448d-8c60-36f07d9bec9c,
-Rear Delt Fly (Cable),,rear delts,cable,"[""traps""]",c3869e03-5fe4-475a-aee9-6a7aeaad6527,
-Rear Delt Fly (Cable, Unilateral),,rear delts,cable,"[""traps""]",326f9448-3dc5-4089-9efc-de79226b9302,
-Rear Delt Fly (Machine),,rear delts,machine,"[""traps""]",a9b86377-1898-449c-b7eb-1103b58e83c6,
-Face Pull (Cable),,rear delts,cable,"[""traps""]",6d629741-7012-4677-9589-fbdb8bc89c74,
-Upright Row (Barbell),,side delts,barbell,"[""traps""]",e1d5a922-d339-4ebb-a563-8de50bfb3ed2,
-Upright Row (Cable),,side delts,cable,"[""traps""]",e8e2892c-0d5f-4600-83da-5db9022de701,
-Upright Row (Dumbbell),,side delts,dumbbell,"[""traps""]",49930638-e4b5-4ef3-82e9-5ed5dd95284f,
-Shrug (Barbell),,traps,barbell,[],a9b2b85b-77a7-4d1a-bc11-9e7c6ca67013,
-Shrug (Dumbbell),,traps,dumbbell,[],0b3fbd65-9c55-466a-bf96-2bc0c7d91349,
-Shrug (Machine),,traps,machine,[],a20b7bb5-0b52-41a1-937b-bc525375da8c,
-Shrug (Cable),,traps,cable,[],3870188c-f391-4621-8316-b53fc8ad6919,
-Shrug (Smith),,traps,smith,[],cfd28576-6689-48c5-a879-0711107cbe76,
-Pull-Up (Bodyweight),,lats,bodyweight,"[""rear delts""]",9885245d-f6bf-48b5-95a7-ca16db3e82d2,
-Pull-Up (Assisted),,lats,assisted,"[""rear delts""]",542bad95-6464-4d53-a872-c8b4ec4afc99,
-Chin-Up (Bodyweight),,lats,bodyweight,"[""biceps""]",b8462140-f74f-4cd9-ab9a-ea34a8c73601,
-Chin-Up (Assisted),,lats,assisted,"[""biceps""]",d687248a-4a2e-44f0-9d73-2fb8ffad2036,
-Lat Pulldown (Cable),,lats,cable,"[""rear delts""]",84632bae-c777-4a27-9e31-45f2b1083eab,
-Lat Pulldown (Cable, Wide Grip),,lats,cable,"[""rear delts""]",3061235c-9800-4517-b233-065502d9ec23,
-Lat Pulldown (Cable, Underhand),,lats,cable,"[""rear delts""]",17253df3-4776-4770-855f-b40d494144d3,
-Lat Pulldown (Machine),,lats,machine,"[""rear delts""]",98ce2942-6207-4767-840f-340ebc1ca2c5,
-Lat Pulldown (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",9226d79e-9980-4582-8f83-af78a57b8827,
-Lat Pullover (Machine),,lats,machine,[],88476400-d03e-4b6f-8626-cff479d7e2f2,
-Lat Pullover (Dumbbell),,lats,dumbbell,"[""chest""]",0612dce4-93b8-4dd4-ac65-102630f256cc,
-Seated Lat Row (Cable),,lats,cable,"[""rear delts""]",7d4f6c75-fa58-4482-99ea-8640dc55919d,
-Seated Lat Row (Machine),,lats,machine,"[""rear delts""]",76beca04-fc79-4e2e-abc2-76c1e2a260ec,
-Seated Lat Row (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",8a8d8086-2222-4782-8c8e-683d1c5367c8,
-Seated Upper Back Row (Cable),,traps,cable,"[""rear delts""]",2cb49200-630e-4cac-a818-09780675a1d7,
-Seated Upper Back Row (Machine),,traps,machine,"[""rear delts""]",8e333251-07fb-41b4-bb97-bd376035ba0f,
-Seated Upper Back Row (Plate-Loaded),,traps,plate-loaded,"[""rear delts""]",5cd39b7d-0368-4a83-a028-c36db25449da,
-Incline Lat Row (Dumbbell),,lats,dumbbell,"[""rear delts""]",0bc95638-f74a-427b-b0bb-49995b744821,
-Incline Upper Back Row (Dumbbell),,traps,dumbbell,"[""rear delts""]",9def9f02-ab35-45dc-a543-bd618457462a,
-Chest-Supported Lat Row (Machine),,lats,machine,"[""rear delts""]",982e7271-2794-4e26-ae63-8c231735ac50,
-Chest-Supported Upper Back Row (Machine),,traps,machine,"[""rear delts""]",20a211bb-2b1c-4163-b119-3616023cf8e5,
-Chest-Supported Lat Row (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",a91b303c-3c0c-4c6d-9b51-ba7041d24b74,
-Chest-Supported Upper Back Row (Plate-Loaded),,traps,plate-loaded,"[""rear delts""]",4bef1aaf-d073-49c2-920c-d28b8aa8c0c9,
-Bent-Over Row (Barbell),,lats,barbell,"[""traps"", ""rear delts""]",4c6db357-cab9-4e7f-b5f0-d99f32cc9f36,
-Bent-Over Row (Barbell, Underhand),,lats,barbell,"[""biceps""]",94c50d96-3423-43f6-9049-c15f21f60d83,
-Bent-Over Row (Dumbbell),,lats,dumbbell,"[""rear delts""]",7828912a-3199-464d-92c2-0b22596ac673,
-Bent-Over Row (Dumbbell, Unilateral),,lats,dumbbell,"[""rear delts""]",01d089fe-b906-422f-a360-b10901fbfb3f,
-T-Bar Lat Row (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",2bc1045d-7a2c-4642-9181-16bb0f1c865e,
-T-Bar Upper Back Row (Plate-Loaded),,traps,plate-loaded,"[""rear delts""]",de1c1e9c-6a07-4573-928b-efff159e4ded,
-Pendlay Row (Barbell),,lats,barbell,"[""traps"", ""rear delts""]",dffe3119-4a1e-4446-b66f-6f1ed46587ab,
-Meadows Row (Barbell),,lats,barbell,"[""traps"", ""rear delts""]",a704c9a1-4b7f-495d-a58d-b9ae96891de5,
-Deadlift (Barbell),,erectors,barbell,"[""glutes"",""traps""]",97c4b84a-e4b3-459e-9890-3add197869df,
-Romanian Deadlift (Barbell),,erectors,barbell,"[""glutes"", ""hamstrings""]",6635425a-71fd-4e75-993b-4a61f019cdaf,
-Romanian Deadlift (Dumbbell),,erectors,dumbbell,"[""glutes"", ""hamstrings""]",5ee26c38-5f74-4c77-b058-6dcce5c93bb0,
-Romanian Deadlift (Dumbbell, Unilateral),,erectors,dumbbell,"[""glutes"", ""hamstrings""]",3857b0db-4728-4d86-8160-7df1412aefc0,
-Romanian Deadlift (Cable),,erectors,cable,"[""glutes"", ""hamstrings""]",38dc8b46-c3a4-41be-aa3b-83053a988716,
-Sumo Deadlift (Barbell),,adductors,barbell,"[""glutes"", ""erectors""]",37d20f7c-bc29-4aa5-b57f-cfcb85f2684c,
-Sumo Deadlift (Smith),,adductors,smith,"[""glutes"", ""erectors""]",f11e9610-090d-4865-9cf3-9a1303ff47d4,
-Stiff-Leg Deadlift (Barbell),,erectors,barbell,"[""hamstrings"", ""glutes""]",123cd829-1b63-4d79-82a3-d37f6323a6df,
-Trap Bar Deadlift (Barbell),,quads,barbell,"[""glutes"", ""erectors""]",43687dc3-22e2-46a3-a1df-a485201d101c,
-Good Morning (Barbell),,erectors,barbell,"[""glutes"", ""hamstrings""]",fbcd3a70-b930-41cd-b622-576bfef2c0d3,
-Back Extension (Machine),,erectors,machine,"[""glutes"", ""hamstrings""]",7790df69-3d85-4551-adcb-dc1365b42be3,
-Back Extension (Bodyweight),,erectors,bodyweight,"[""glutes"", ""hamstrings""]",cbbba8f5-aaa4-4e57-9e17-b2cc961902a1,
-Hyperextension (Plate-Loaded),,erectors,plate-loaded,"[""glutes""]",ab559a55-0a0c-4989-a656-2453217b8f30,
-Biceps Curl (Barbell),,biceps,barbell,[],eaa37c56-f68f-4964-8531-678133785f90,
-Biceps Curl (Barbell, EZ),,biceps,barbell,[],7a1a9bf4-6393-45f7-b668-f5d94b44f7c1,
-Biceps Curl (Dumbbell),,biceps,dumbbell,[],281bf1ae-2444-4d91-83e3-e02b69636d3c,
-Biceps Curl (Dumbbell, Unilateral),,biceps,dumbbell,[],b069cd81-35a5-4c37-a8cd-387fadcc748e,
-Hammer Curl (Dumbbell),,biceps,dumbbell,"[""forearms""]",e0d3180a-00ff-4e5d-843f-80afa09b9829,
-Biceps Curl (Cable),,biceps,cable,[],0b226a24-424e-4828-9e44-0d35c24a6bf6,
-Biceps Curl (Cable, Unilateral),,biceps,cable,[],cce7b8ca-b93a-4411-ac47-3a2f2a96e35f,
-Biceps Curl (Machine),,biceps,machine,[],ca5b3e45-1d86-4b44-ba48-2f6821a0d643,
-Incline Curl (Dumbbell),,biceps,dumbbell,[],f4caabf5-860e-4f3c-8b78-64f2c837a5b8,
-Preacher Curl (Barbell),,biceps,barbell,[],91e20601-58ba-430b-ba9e-9ef098d89119,
-Preacher Curl (Barbell, EZ),,biceps,barbell,[],7feff4ef-983e-4b87-b876-8606655faf53,
-Preacher Curl (Dumbbell),,biceps,dumbbell,[],14e50821-8ca4-4af7-af8c-91ddcdd5779f,
-Preacher Curl (Dumbbell, Unilateral),,biceps,dumbbell,[],a2448453-ced0-44ee-a29c-5151b7772901,
-Preacher Hammer Curl (Dumbbell),,biceps,dumbbell,"[""forearms""]",be440c94-e844-4d0d-acac-144e1f092d3f,
-Preacher Curl (Machine),,biceps,machine,[],39590f3c-b62a-4808-8b58-29354f1fceeb,
-Preacher Curl (Machine, Unilateral),,biceps,machine,[],dfe44a95-752c-4640-aca2-7cc0cd8e414d,
-Concentration Curl (Dumbbell, Unilateral),,biceps,dumbbell,[],51e219bb-78b9-42b0-9284-36d20557e3a1,
-Spider Curl (Dumbbell),,biceps,dumbbell,[],4f32e9a7-17b3-4c7e-a5f9-698a7b22a304,
-Reverse Curl (Barbell),,forearms,barbell,"[""biceps""]",4be440cc-02a1-431c-8bc3-6822649ba95b,
-Reverse Curl (Cable),,forearms,cable,"[""biceps""]",96e7ff45-8ac9-4728-9e49-d3ff2fbd1c32,
-Reverse Curl (Dumbbell),,forearms,dumbbell,"[""biceps""]",d5762ab1-05b3-4660-8190-7482de7bb3f0,
-Zottman Curl (Dumbbell),,biceps,dumbbell,"[""forearms""]",193edb1c-792a-4b69-882c-c01274bb665f,
-Triceps Pushdown (Cable),,triceps,cable,[],9bead67c-42d0-4f20-8001-634eea2867d0,
-Triceps Pushdown (Cable, Rope),,triceps,cable,[],29739823-e1e3-4ffe-a656-eef56edde142,
-Incline Triceps Pushdown (Cable),,triceps,cable,[],d70133e1-e6c5-47d4-872d-d833aa04f4a3,
-Triceps Extension (Cable, Unilateral),,triceps,cable,[],61d558f3-f5cc-42b7-a782-92648589b4a4,
-Overhead Triceps Extension (Cable),,triceps,cable,[],c3d82846-e19b-4f25-b19b-d65bce894951,
-Overhead Triceps Extension (Dumbbell),,triceps,dumbbell,[],9b74b564-4864-4914-ad0c-9ec1f2bdf127,
-Overhead Triceps Extension (Barbell, EZ),,triceps,barbell,[],94441563-0297-49bb-89a6-e8df806727b8,
-Overhead Triceps Extension (Machine),,triceps,machine,[],cddb4368-20f8-4eba-99df-7779948a20bf,
-Skull Crusher (Barbell),,triceps,barbell,[],9b82a0a4-e8f8-4cd8-a99a-22865518446f,
-Skull Crusher (Barbell, EZ),,triceps,barbell,[],3da7d976-2e12-452a-9526-ae85fcaa8890,
-Skull Crusher (Dumbbell),,triceps,dumbbell,[],7a3b6699-f2e1-46bb-8e05-3cd52b27f934,
-Triceps Kickback (Dumbbell),,triceps,dumbbell,[],24bf1076-1858-4427-9b82-03cebbf1c43a,
-Triceps Kickback (Cable),,triceps,cable,[],4654286f-463d-4001-b496-5a4005907e29,
-Triceps Extension (Machine),,triceps,machine,[],4602c950-15d6-4787-b8a0-5eec512a5131,
-Triceps Dips (Bodyweight),,triceps,bodyweight,[],ec031959-36ba-4589-9fab-3b71afe92e8e,
-Triceps Dips (Assisted),,triceps,assisted,[],ff4eda98-ddae-4e47-80ec-934aa695b950,
-Close-Grip Bench Press (Barbell),,triceps,barbell,"[""chest""]",b33ff637-f29d-4560-bf48-2302ec6d9b55,
-Wrist Curl (Barbell),,forearms,barbell,[],fa60ff29-1e6c-418c-860b-378040479789,
-Wrist Curl (Dumbbell),,forearms,dumbbell,[],fb4ceb8e-67a5-47ef-90e0-2924c7fcef6f,
-Reverse Wrist Curl (Barbell),,forearms,barbell,[],d60d8d6e-364d-4552-98cd-3d8f244de58e,
-Reverse Wrist Curl (Dumbbell),,forearms,dumbbell,[],8999586f-6df9-4097-8804-ec0eedb7f4c2,
-Farmer Carry (Dumbbell),,forearms,dumbbell,"[""traps""]",7a7b90a4-1065-42f4-af3f-7fa6dec348de,
-Farmer Carry (Barbell),,forearms,barbell,"[""traps""]",438dede7-f13d-4fc9-b70a-d2ff9501b107,
-Squat (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",1812f140-afda-4e45-a8f2-82b636d694f1,
-Squat (Smith),,quads,smith,"[""glutes"", ""adductors""]",87e14e35-24ee-4e48-bc71-ee88ac596553,
-Squat (Bodyweight),,quads,bodyweight,"[""glutes"", ""adductors""]",28f873b2-fde0-4b81-8002-56e71d3be1e1,
-Front Squat (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",9e70d840-d2ac-4e95-ba00-b113ff6b2680,
-Goblet Squat (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",cd003932-acf2-4210-a141-daa5db0b8449,
-Hack Squat (Low Stance),,quads,plate-loaded,"[""glutes"", ""adductors""]",6d683323-9f59-4180-914f-478ed585727a,
-Hack Squat (High Stance),,glutes,plate-loaded,"[""quads"", ""adductors""]",dd498b50-dcc8-45b8-a077-8e281e0ed214,
-Leg Press (Plate-Loaded, Low Stance),,quads,plate-loaded,"[""glutes"", ""adductors""]",ecd7780b-c134-4f86-bb9f-5aa49c0f33ca,
-Leg Press (Plate-Loaded, High Stance),,glutes,plate-loaded,"[""quads"", ""adductors""]",1d28181f-575f-4b54-9e04-8cf8d7fe49cc,
-Leg Press (Machine, Low Stance),,quads,machine,"[""glutes"", ""adductors""]",daf40bc7-ed68-4779-819b-cb62f60eec1c,
-Leg Press (Machine, High Stance),,glutes,machine,"[""quads"", ""adductors""]",f034257e-74f0-489a-84bb-cf943fc17d07,
-Leg Extension (Machine),,quads,machine,[],4cbcf65c-b39c-4e60-a29b-edcdfb373264,
-Leg Extension (Machine, Unilateral),,quads,machine,[],ca0e4e25-9570-4cb1-b999-23f358642abd,
-Lunge (Bodyweight),,quads,bodyweight,"[""glutes"", ""adductors""]",c8eb6eeb-3548-4730-8314-4a32de7c6dda,
-Lunge (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",2606adb7-c578-4fcd-83c5-7bcf02e53aca,
-Lunge (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",858dcf51-a879-45cd-83a8-c909cd12a816,
-Walking Lunge (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",0456f443-a11b-4e1e-8b9f-25dfd486df5a,
-Walking Lunge (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",d5ea1529-bd03-4b5a-a819-3f03676930aa,
-Reverse Lunge (Bodyweight),,quads,bodyweight,"[""glutes"", ""adductors""]",a8457245-5799-4c39-aada-8c4d1ab794be,
-Reverse Lunge (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",31376815-9293-4ea0-898e-11b0ba800acb,
-Reverse Lunge (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",c7c17d5a-7ba8-41d4-ae6c-564c0d007bea,
-Bulgarian Split Squat (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",cafd0ee7-b25f-4232-aad4-d631242ca79b,
-Bulgarian Split Squat (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",ce77153b-58e9-45a1-97e8-a91ced5e9b6f,
-Bulgarian Split Squat (Smith),,quads,smith,"[""glutes"", ""adductors""]",54c03ce7-1fc6-4e7f-83ee-3ab209b96141,
-Step-Up (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",e72d9e5e-62e3-4cd8-b145-1ff3ebde4b42,
-Step-Up (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",ae779563-3203-4090-af38-e8045b0bfaff,
-Sissy Squat (Bodyweight),,quads,bodyweight,[],194b1b82-335c-41d5-9a54-32dfeaeedec7,
-Sissy Squat (Machine),,quads,machine,[],93349207-e428-46a2-a010-4df0bab3b96e,
-Hip Thrust (Barbell),,glutes,barbell,"[""adductors"", ""hamstrings""]",67bbb5b2-6514-43f7-b07c-fdb25ae93f34,
-Hip Thrust (Machine),,glutes,machine,"[""adductors"", ""hamstrings""]",d9b667ec-cf1e-43c6-9bce-49a07e4b92cb,
-Hip Thrust (Plate-Loaded),,glutes,plate-loaded,"[""adductors"", ""hamstrings""]",95c75de1-8025-45e6-a80f-4f6b0cbb06f0,
-Hip Thrust (Dumbbell),,glutes,dumbbell,"[""adductors"", ""hamstrings""]",67b42934-7db3-440c-b0ca-fadd639b372d,
-Hip Thrust (Smith),,glutes,smith,"[""adductors"", ""hamstrings""]",304039f2-3ad0-4baf-8bf4-0175540f1c38,
-Glute Bridge (Barbell),,glutes,barbell,"[""adductors"", ""hamstrings""]",389bae18-36fb-4f46-9561-6c2d6b3df43b,
-Glute Bridge (Bodyweight),,glutes,bodyweight,"[""adductors"", ""hamstrings""]",ceb57a67-d602-4142-a6b4-3f965a414b0b,
-Glute Bridge (Dumbbell),,glutes,dumbbell,"[""adductors"", ""hamstrings""]",db7817cb-ee46-401e-88f5-5ab23d0ae2f5,
-Glute Bridge (Dumbbell, Unilateral),,glutes,dumbbell,"[""adductors"", ""hamstrings""]",f2275827-6d3e-409c-82b1-e558b471d6da,
-Sumo Squat (Dumbbell),,adductors,dumbbell,"[""glutes"", ""quads""]",608cc9b4-6620-4eb0-a38e-48a3d1ec6990,
-Kickback (Cable),,glutes,cable,[],65312699-5b47-414a-9509-5bc1da250e36,
-Kickback (Machine),,glutes,machine,[],e15bb73d-a4d3-45c4-ac8b-64acae786403,
-Hip Abduction (Machine),,glutes,machine,[],124c07ad-5b45-4850-aa86-2e3704d23642,
-Hip Abduction (Cable),,glutes,cable,[],1c358f01-591d-4569-9125-898516dcf290,
-Hip Abduction (Band),,glutes,band,[],5b5bc906-1dad-492a-80c0-3b07f49a3c74,
-Seated Leg Curl (Machine),,hamstrings,machine,[],2603277e-5cb9-4ada-9f0b-539f4a590eea,
-Lying Leg Curl (Machine),,hamstrings,machine,[],2c81deba-836a-4744-9499-13473f46aab4,
-Leg Curl (Cable),,hamstrings,cable,[],d5b1a473-359d-47c9-aa86-da30a1cb0448,
-Leg Curl (Cable, Unilateral),,hamstrings,cable,[],d4d50c65-3e44-45cf-b2b0-659df8c4151f,
-Nordic Curl (Bodyweight),,hamstrings,bodyweight,[],a9cc3cb7-e238-4759-83f4-8a818960b830,
-Glute-Ham Raise (Bodyweight),,hamstrings,bodyweight,"[""glutes"", ""erectors""]",cd701882-c5c0-42d9-88c1-4036b1b9e855,
-Hip Adduction (Machine),,adductors,machine,[],6b2bc78a-66f0-4f7a-8484-c1febac2762b,
-Hip Adduction (Cable),,adductors,cable,[],d39d8c7c-0138-4804-8c4a-440ac0b07dcf,
-Calf Raise (Machine),,calves,machine,[],25299857-ee8d-4d08-b811-56c31a59219b,
-Seated Calf Raise (Machine),,calves,machine,[],eace12b6-6d69-4b65-bd35-349436efa1a5,
-Calf Raise (Plate-Loaded),,calves,plate-loaded,[],575b5629-07fd-45bf-9602-312522bac477,
-Seated Calf Raise (Plate-Loaded),,calves,plate-loaded,[],2bdea2cc-99c0-4b9d-9c01-05c1c155df4c,
-Calf Raise (Smith),,calves,smith,[],ddc1398a-448c-40bc-a32c-73961d9dd6b0,
-Calf Raise (Dumbbell),,calves,dumbbell,[],590296e7-aeb7-458b-80e8-40370eae2239,
-Calf Raise (Barbell),,calves,barbell,[],497aba0a-23c9-449f-8078-df8d60204140,
-Calf Raise (Bodyweight),,calves,bodyweight,[],6a1119f6-2b41-4651-b793-204121a2f5d7,
-Donkey Calf Raise (Machine),,calves,machine,[],3a0f8931-1cc2-451b-b70d-56c677cbc5ea,
-Calf Press (Plate-Loaded),,calves,plate-loaded,[],32a4eec1-5940-405a-9049-79d413e52802,
-Calf Press (Plate-Loaded, Unilateral),,calves,plate-loaded,[],af671dc6-3778-46ac-b23c-cd1ad5ee01a1,
-Calf Press (Machine),,calves,machine,[],c34eced6-af58-430f-81eb-e412c6232eef,
-Calf Raise (Machine),,calves,machine,[],8892509d-4411-43cf-9606-6a76a7cf42a9,
-Calf Raise (Machine, Unilateral),,calves,machine,[],fcd2d10f-12b9-41b9-ba1c-67aeeeb4eba9,
-Crunch (Bodyweight),,abs,bodyweight,[],251cba9f-8312-4670-a2b3-5365d78123c5,
-Crunch (Cable),,abs,cable,[],632958b8-ff9c-4e99-b24a-dcff9be42e7a,
-Crunch (Machine),,abs,machine,[],b7be8b64-e0ab-41b0-8707-d8915bf6fb60,
-Decline Crunch (Bodyweight),,abs,bodyweight,[],57f2eb05-913f-4dd6-a434-c008f063a8af,
-Sit-Up (Bodyweight),,abs,bodyweight,[],7a85fced-43a9-4fea-b115-f98ac0228c11,
-Leg Raise (Bodyweight),,abs,bodyweight,[],bec683df-9afa-44b3-a5e1-00f826aace77,
-Hanging Leg Raise (Bodyweight),,abs,bodyweight,[],dbb32d12-bbc4-4144-9ae9-8aab039b12f3,
+name,instruction,muscle_group,equipment,secondary_muscle_group,exercise_id,image_url,alias
+Bench Press (Barbell),,chest,barbell,"[""front delts""]",9b998e0f-0c83-4d07-bb12-71a6021f3b99,,"[""flat bench"", ""barbell bench"", ""flat barbell press""]"
+Bench Press (Dumbbell),,chest,dumbbell,"[""front delts""]",4debdd9e-9039-4eb0-8789-31e8212fc51d,,"[""dumbbell bench"", ""db bench"", ""flat dumbbell press""]"
+Bench Press (Smith),,chest,smith,"[""front delts""]",82dca7ac-8f91-44bd-bf76-eb384cd959d8,,"[""smith bench"", ""smith machine bench""]"
+Incline Bench Press (Barbell),,chest,barbell,"[""front delts""]",bc087dec-f8bf-4fab-a93b-67972f6517f1,,"[""incline bench"", ""incline barbell press"", ""upper chest press""]"
+Incline Bench Press (Dumbbell),,chest,dumbbell,"[""front delts""]",abfc844d-a015-4dc7-844b-5f11bfe33728,,"[""incline dumbbell press"", ""incline db press""]"
+Incline Bench Press (Smith),,chest,smith,"[""front delts""]",42ace800-4b23-42bb-906e-7e885a22ebf7,,"[""incline smith press"", ""incline smith bench""]"
+Decline Bench Press (Barbell),,chest,barbell,[],a72065a6-e4b8-42b6-aa33-ded38c09c177,,"[""decline bench"", ""decline barbell press"", ""lower chest press""]"
+Decline Bench Press (Dumbbell),,chest,dumbbell,[],4a1041b5-389a-4853-b1ce-7d3e1c6df5b9,,"[""decline dumbbell press"", ""decline db press""]"
+Chest Press (Machine),,chest,machine,"[""front delts""]",66bdf6a6-0f6a-4f13-9866-00ba2924e26a,,"[""machine chest press"", ""machine press"", ""seated chest press""]"
+Incline Chest Press (Machine),,chest,machine,"[""front delts""]",88c91bb7-dbf3-4f3f-89f7-35c54ffad88f,,"[""incline machine press"", ""incline machine chest press""]"
+Chest Press (Plate-Loaded),,chest,plate-loaded,"[""front delts""]",5fad20ef-d4c1-4b9d-999a-28d35f8ddb8d,,"[""plate loaded chest press"", ""hammer strength chest press""]"
+Chest Fly (Dumbbell),,chest,dumbbell,[],a7bd2296-4c6a-42db-8b36-0712a77b4360,,"[""dumbbell fly"", ""db fly"", ""flat fly""]"
+Incline Chest Fly (Dumbbell),,chest,dumbbell,"[""front delts""]",8907a793-21a8-49f5-b3a4-53e5a89af141,,"[""incline fly"", ""incline dumbbell fly"", ""incline db fly""]"
+Chest Fly (Cable),,chest,cable,[],f66cf349-69c0-46a7-9681-49816c0b1ade,,"[""cable fly"", ""cable crossover""]"
+Low-to-High Chest Fly (Cable),,chest,cable,"[""front delts""]",46961afa-4016-4255-92e1-35b70ecf840d,,"[""low cable fly"", ""low to high fly"", ""cable crossover low""]"
+High-to-Low Chest Fly (Cable),,chest,cable,[],e9200ddf-373f-4385-9eff-053e5dd3c1f8,,"[""high cable fly"", ""high to low fly"", ""cable crossover high""]"
+Pec Deck (Machine),,chest,machine,[],05600499-e706-4d72-85e7-d31437ef6636,,"[""pec deck"", ""butterfly machine"", ""machine fly""]"
+Push-Up (Bodyweight),,chest,bodyweight,"[""front delts""]",ea49b4d7-5070-4b51-bd6d-d83eacbf5727,,"[""pushup"", ""push up""]"
+Chest Dips (Bodyweight),,chest,bodyweight,"[""front delts""]",cee8a78c-29b9-42ae-8ea4-cb2d44a268fa,,"[""dips"", ""chest dips"", ""parallel bar dips""]"
+Chest Dips (Assisted),,chest,assisted,"[""front delts""]",5dcdf5e3-dbaa-4a80-b26c-3bd062c0b5b1,,"[""assisted dips"", ""assisted chest dips""]"
+Shoulder Press (Barbell),,side delts,barbell,"[""front delts""]",c5c60b6a-804f-477f-bcff-31ea7b60eb9d,,"[""military press"", ""overhead press"", ""OHP"", ""barbell shoulder press""]"
+Shoulder Press (Dumbbell),,side delts,dumbbell,"[""front delts""]",ff3226ba-3337-4a2d-9baf-9880cef9b43f,,"[""dumbbell shoulder press"", ""db shoulder press"", ""db OHP""]"
+Shoulder Press (Machine),,side delts,machine,"[""front delts""]",eb6099bd-ff23-491f-a6cc-920c04c1e390,,"[""machine shoulder press"", ""seated shoulder press"", ""machine overhead press""]"
+"Shoulder Press (Machine, Neutral Grip)",,side delts,machine,"[""front delts""]",a3f44b30-1f9e-4e5a-8238-704c9c1a413e,,"[""neutral grip shoulder press"", ""hammer grip shoulder press""]"
+Shoulder Press (Plate-Loaded),,side delts,plate-loaded,"[""front delts""]",14375357-6eac-4abb-a22f-b0116a958f95,,"[""plate loaded shoulder press"", ""hammer strength shoulder press""]"
+Shoulder Press (Smith),,side delts,smith,"[""front delts""]",7d14e1f9-d803-4e02-8f13-711ac0293fdb,,"[""smith shoulder press"", ""smith military press"", ""smith overhead press""]"
+Arnold Press (Dumbbell),,side delts,dumbbell,"[""front delts"", ""rear delts""]",87e0ed48-5912-44bd-9be5-7436c3e6e0d4,,"[""arnold press"", ""rotating shoulder press""]"
+Lateral Raise (Dumbbell),,side delts,dumbbell,[],872098d0-4e6a-4c20-8968-7392b68635dc,,"[""lateral raise"", ""side raise"", ""side delt raise""]"
+Lateral Raise (Cable),,side delts,cable,[],f3cb63f6-204b-4834-9e9c-f7c8e2ae3ec9,,"[""cable lateral raise"", ""cable side raise""]"
+"Lateral Raise (Cable, Unilateral)",,side delts,cable,[],f1597dca-4b2f-4a8c-9157-f00162f22780,,"[""single arm lateral raise"", ""one arm cable lateral raise""]"
+Lateral Raise (Machine),,side delts,machine,[],d3824bdc-7dba-4dc3-aeb1-f3c8bdb60ebc,,"[""machine lateral raise"", ""machine side raise""]"
+Lateral Raise (Band),,side delts,band,[],adad3bb3-661e-4c4a-a4a0-c6e92a233178,,"[""band lateral raise"", ""resistance band lateral raise""]"
+Front Raise (Dumbbell),,front delts,dumbbell,[],6d485ce5-8c94-4d13-812e-dfac2bf33db8,,"[""dumbbell front raise"", ""front delt raise""]"
+Front Raise (Barbell),,front delts,barbell,[],860d8630-4b08-41ee-bf63-aca965c22203,,"[""barbell front raise""]"
+Front Raise (Cable),,front delts,cable,[],2d7539f7-def4-4ce7-86f4-3e3f8d32283e,,"[""cable front raise""]"
+Rear Delt Fly (Dumbbell),,rear delts,dumbbell,"[""traps""]",1b2ed2be-dd71-448d-8c60-36f07d9bec9c,,"[""reverse fly"", ""rear delt fly"", ""bent over rear fly""]"
+Rear Delt Fly (Cable),,rear delts,cable,"[""traps""]",c3869e03-5fe4-475a-aee9-6a7aeaad6527,,"[""cable rear delt fly"", ""cable reverse fly""]"
+"Rear Delt Fly (Cable, Unilateral)",,rear delts,cable,"[""traps""]",326f9448-3dc5-4089-9efc-de79226b9302,,"[""single arm rear delt fly"", ""one arm cable rear fly""]"
+Rear Delt Fly (Machine),,rear delts,machine,"[""traps""]",a9b86377-1898-449c-b7eb-1103b58e83c6,,"[""reverse pec deck"", ""machine rear delt fly"", ""machine reverse fly""]"
+Face Pull (Cable),,rear delts,cable,"[""traps""]",6d629741-7012-4677-9589-fbdb8bc89c74,,"[""face pull"", ""rope face pull""]"
+Upright Row (Barbell),,side delts,barbell,"[""traps""]",e1d5a922-d339-4ebb-a563-8de50bfb3ed2,,"[""barbell upright row"", ""upright row""]"
+Upright Row (Cable),,side delts,cable,"[""traps""]",e8e2892c-0d5f-4600-83da-5db9022de701,,"[""cable upright row""]"
+Upright Row (Dumbbell),,side delts,dumbbell,"[""traps""]",49930638-e4b5-4ef3-82e9-5ed5dd95284f,,"[""dumbbell upright row"", ""db upright row""]"
+Shrug (Barbell),,traps,barbell,[],a9b2b85b-77a7-4d1a-bc11-9e7c6ca67013,,"[""barbell shrug"", ""shrug""]"
+Shrug (Dumbbell),,traps,dumbbell,[],0b3fbd65-9c55-466a-bf96-2bc0c7d91349,,"[""dumbbell shrug"", ""db shrug""]"
+Shrug (Machine),,traps,machine,[],a20b7bb5-0b52-41a1-937b-bc525375da8c,,"[""machine shrug""]"
+Shrug (Cable),,traps,cable,[],3870188c-f391-4621-8316-b53fc8ad6919,,"[""cable shrug""]"
+Shrug (Smith),,traps,smith,[],cfd28576-6689-48c5-a879-0711107cbe76,,"[""smith shrug""]"
+Pull-Up (Bodyweight),,lats,bodyweight,"[""rear delts""]",9885245d-f6bf-48b5-95a7-ca16db3e82d2,,"[""pullup"", ""pull up"", ""overhand pull up""]"
+Pull-Up (Assisted),,lats,assisted,"[""rear delts""]",542bad95-6464-4d53-a872-c8b4ec4afc99,,"[""assisted pullup"", ""assisted pull up""]"
+Chin-Up (Bodyweight),,lats,bodyweight,"[""biceps""]",b8462140-f74f-4cd9-ab9a-ea34a8c73601,,"[""chinup"", ""chin up"", ""underhand pull up""]"
+Chin-Up (Assisted),,lats,assisted,"[""biceps""]",d687248a-4a2e-44f0-9d73-2fb8ffad2036,,"[""assisted chinup"", ""assisted chin up""]"
+Lat Pulldown (Cable),,lats,cable,"[""rear delts""]",84632bae-c777-4a27-9e31-45f2b1083eab,,"[""lat pulldown"", ""cable pulldown"", ""pulldown""]"
+"Lat Pulldown (Cable, Wide Grip)",,lats,cable,"[""rear delts""]",3061235c-9800-4517-b233-065502d9ec23,,"[""wide grip pulldown"", ""wide lat pulldown""]"
+"Lat Pulldown (Cable, Underhand)",,lats,cable,"[""rear delts""]",17253df3-4776-4770-855f-b40d494144d3,,"[""underhand pulldown"", ""reverse grip pulldown"", ""supinated pulldown""]"
+Lat Pulldown (Machine),,lats,machine,"[""rear delts""]",98ce2942-6207-4767-840f-340ebc1ca2c5,,"[""machine pulldown"", ""machine lat pulldown""]"
+Lat Pulldown (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",9226d79e-9980-4582-8f83-af78a57b8827,,"[""plate loaded pulldown"", ""hammer strength pulldown""]"
+Lat Pullover (Machine),,lats,machine,[],88476400-d03e-4b6f-8626-cff479d7e2f2,,"[""machine pullover""]"
+Lat Pullover (Dumbbell),,lats,dumbbell,"[""chest""]",0612dce4-93b8-4dd4-ac65-102630f256cc,,"[""dumbbell pullover"", ""db pullover"", ""pullover""]"
+Seated Lat Row (Cable),,lats,cable,"[""rear delts""]",7d4f6c75-fa58-4482-99ea-8640dc55919d,,"[""seated cable row"", ""cable row"", ""seated row""]"
+Seated Lat Row (Machine),,lats,machine,"[""rear delts""]",76beca04-fc79-4e2e-abc2-76c1e2a260ec,,"[""machine seated row"", ""machine row""]"
+Seated Lat Row (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",8a8d8086-2222-4782-8c8e-683d1c5367c8,,"[""plate loaded seated row"", ""hammer strength row""]"
+Seated Upper Back Row (Cable),,traps,cable,"[""rear delts""]",2cb49200-630e-4cac-a818-09780675a1d7,,"[""cable upper back row"", ""high cable row""]"
+Seated Upper Back Row (Machine),,traps,machine,"[""rear delts""]",8e333251-07fb-41b4-bb97-bd376035ba0f,,"[""machine upper back row""]"
+Seated Upper Back Row (Plate-Loaded),,traps,plate-loaded,"[""rear delts""]",5cd39b7d-0368-4a83-a028-c36db25449da,,"[""plate loaded upper back row""]"
+Incline Lat Row (Dumbbell),,lats,dumbbell,"[""rear delts""]",0bc95638-f74a-427b-b0bb-49995b744821,,"[""incline dumbbell row"", ""incline db row""]"
+Incline Upper Back Row (Dumbbell),,traps,dumbbell,"[""rear delts""]",9def9f02-ab35-45dc-a543-bd618457462a,,"[""incline upper back row""]"
+Chest-Supported Lat Row (Machine),,lats,machine,"[""rear delts""]",982e7271-2794-4e26-ae63-8c231735ac50,,"[""chest supported row machine"", ""machine chest supported row""]"
+Chest-Supported Upper Back Row (Machine),,traps,machine,"[""rear delts""]",20a211bb-2b1c-4163-b119-3616023cf8e5,,"[""chest supported upper row machine""]"
+Chest-Supported Lat Row (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",a91b303c-3c0c-4c6d-9b51-ba7041d24b74,,"[""chest supported row"", ""hammer strength chest row""]"
+Chest-Supported Upper Back Row (Plate-Loaded),,traps,plate-loaded,"[""rear delts""]",4bef1aaf-d073-49c2-920c-d28b8aa8c0c9,,"[""chest supported upper row plate loaded""]"
+Bent-Over Row (Barbell),,lats,barbell,"[""traps"", ""rear delts""]",4c6db357-cab9-4e7f-b5f0-d99f32cc9f36,,"[""barbell row"", ""bent over row""]"
+"Bent-Over Row (Barbell, Underhand)",,lats,barbell,"[""biceps""]",94c50d96-3423-43f6-9049-c15f21f60d83,,"[""underhand barbell row"", ""supinated barbell row"", ""reverse grip row""]"
+Bent-Over Row (Dumbbell),,lats,dumbbell,"[""rear delts""]",7828912a-3199-464d-92c2-0b22596ac673,,"[""dumbbell row"", ""db row""]"
+"Bent-Over Row (Dumbbell, Unilateral)",,lats,dumbbell,"[""rear delts""]",01d089fe-b906-422f-a360-b10901fbfb3f,,"[""single arm row"", ""one arm row"", ""single arm dumbbell row""]"
+T-Bar Lat Row (Plate-Loaded),,lats,plate-loaded,"[""rear delts""]",2bc1045d-7a2c-4642-9181-16bb0f1c865e,,"[""t bar row"", ""t-bar row"", ""landmine row""]"
+T-Bar Upper Back Row (Plate-Loaded),,traps,plate-loaded,"[""rear delts""]",de1c1e9c-6a07-4573-928b-efff159e4ded,,"[""t bar upper back row"", ""t-bar upper row""]"
+Pendlay Row (Barbell),,lats,barbell,"[""traps"", ""rear delts""]",dffe3119-4a1e-4446-b66f-6f1ed46587ab,,"[""pendlay row"", ""dead stop row"", ""strict barbell row""]"
+Meadows Row (Barbell),,lats,barbell,"[""traps"", ""rear delts""]",a704c9a1-4b7f-495d-a58d-b9ae96891de5,,"[""meadows row"", ""landmine meadows row""]"
+Deadlift (Barbell),,erectors,barbell,"[""glutes"", ""traps""]",97c4b84a-e4b3-459e-9890-3add197869df,,"[""deadlift"", ""conventional deadlift"", ""barbell deadlift""]"
+Romanian Deadlift (Barbell),,erectors,barbell,"[""glutes"", ""hamstrings""]",6635425a-71fd-4e75-993b-4a61f019cdaf,,"[""RDL"", ""romanian deadlift"", ""barbell RDL""]"
+Romanian Deadlift (Dumbbell),,erectors,dumbbell,"[""glutes"", ""hamstrings""]",5ee26c38-5f74-4c77-b058-6dcce5c93bb0,,"[""dumbbell RDL"", ""db RDL""]"
+"Romanian Deadlift (Dumbbell, Unilateral)",,erectors,dumbbell,"[""glutes"", ""hamstrings""]",3857b0db-4728-4d86-8160-7df1412aefc0,,"[""single leg RDL"", ""single leg deadlift"", ""unilateral RDL""]"
+Romanian Deadlift (Cable),,erectors,cable,"[""glutes"", ""hamstrings""]",38dc8b46-c3a4-41be-aa3b-83053a988716,,"[""cable RDL"", ""cable romanian deadlift""]"
+Sumo Deadlift (Barbell),,adductors,barbell,"[""glutes"", ""erectors""]",37d20f7c-bc29-4aa5-b57f-cfcb85f2684c,,"[""sumo deadlift"", ""wide stance deadlift""]"
+Sumo Deadlift (Smith),,adductors,smith,"[""glutes"", ""erectors""]",f11e9610-090d-4865-9cf3-9a1303ff47d4,,"[""smith sumo deadlift""]"
+Stiff-Leg Deadlift (Barbell),,erectors,barbell,"[""hamstrings"", ""glutes""]",123cd829-1b63-4d79-82a3-d37f6323a6df,,"[""straight leg deadlift"", ""SLDL"", ""stiff leg deadlift""]"
+Trap Bar Deadlift (Barbell),,quads,barbell,"[""glutes"", ""erectors""]",43687dc3-22e2-46a3-a1df-a485201d101c,,"[""trap bar deadlift"", ""hex bar deadlift""]"
+Good Morning (Barbell),,erectors,barbell,"[""glutes"", ""hamstrings""]",fbcd3a70-b930-41cd-b622-576bfef2c0d3,,"[""good morning"", ""barbell good morning""]"
+Back Extension (Machine),,erectors,machine,"[""glutes"", ""hamstrings""]",7790df69-3d85-4551-adcb-dc1365b42be3,,"[""back extension"", ""lower back machine""]"
+Back Extension (Bodyweight),,erectors,bodyweight,"[""glutes"", ""hamstrings""]",cbbba8f5-aaa4-4e57-9e17-b2cc961902a1,,"[""bodyweight back extension"", ""hyperextension bodyweight""]"
+Hyperextension (Plate-Loaded),,erectors,plate-loaded,"[""glutes""]",ab559a55-0a0c-4989-a656-2453217b8f30,,"[""hyperextension"", ""weighted back extension""]"
+Biceps Curl (Barbell),,biceps,barbell,[],eaa37c56-f68f-4964-8531-678133785f90,,"[""barbell curl"", ""standing barbell curl""]"
+"Biceps Curl (Barbell, EZ)",,biceps,barbell,[],7a1a9bf4-6393-45f7-b668-f5d94b44f7c1,,"[""EZ bar curl"", ""ez curl""]"
+Biceps Curl (Dumbbell),,biceps,dumbbell,[],281bf1ae-2444-4d91-83e3-e02b69636d3c,,"[""dumbbell curl"", ""db curl""]"
+"Biceps Curl (Dumbbell, Unilateral)",,biceps,dumbbell,[],b069cd81-35a5-4c37-a8cd-387fadcc748e,,"[""single arm curl"", ""one arm dumbbell curl""]"
+Hammer Curl (Dumbbell),,biceps,dumbbell,"[""forearms""]",e0d3180a-00ff-4e5d-843f-80afa09b9829,,"[""hammer curl"", ""neutral grip curl""]"
+Biceps Curl (Cable),,biceps,cable,[],0b226a24-424e-4828-9e44-0d35c24a6bf6,,"[""cable curl"", ""cable bicep curl""]"
+"Biceps Curl (Cable, Unilateral)",,biceps,cable,[],cce7b8ca-b93a-4411-ac47-3a2f2a96e35f,,"[""single arm cable curl"", ""one arm cable curl""]"
+Biceps Curl (Machine),,biceps,machine,[],ca5b3e45-1d86-4b44-ba48-2f6821a0d643,,"[""machine curl"", ""machine bicep curl""]"
+Incline Curl (Dumbbell),,biceps,dumbbell,[],f4caabf5-860e-4f3c-8b78-64f2c837a5b8,,"[""incline curl"", ""incline dumbbell curl"", ""incline bicep curl""]"
+Preacher Curl (Barbell),,biceps,barbell,[],91e20601-58ba-430b-ba9e-9ef098d89119,,"[""preacher curl"", ""barbell preacher curl""]"
+"Preacher Curl (Barbell, EZ)",,biceps,barbell,[],7feff4ef-983e-4b87-b876-8606655faf53,,"[""EZ preacher curl"", ""ez bar preacher curl""]"
+Preacher Curl (Dumbbell),,biceps,dumbbell,[],14e50821-8ca4-4af7-af8c-91ddcdd5779f,,"[""dumbbell preacher curl"", ""db preacher curl""]"
+"Preacher Curl (Dumbbell, Unilateral)",,biceps,dumbbell,[],a2448453-ced0-44ee-a29c-5151b7772901,,"[""single arm preacher curl"", ""one arm preacher curl""]"
+Preacher Hammer Curl (Dumbbell),,biceps,dumbbell,"[""forearms""]",be440c94-e844-4d0d-acac-144e1f092d3f,,"[""preacher hammer curl"", ""neutral grip preacher curl""]"
+Preacher Curl (Machine),,biceps,machine,[],39590f3c-b62a-4808-8b58-29354f1fceeb,,"[""machine preacher curl""]"
+"Preacher Curl (Machine, Unilateral)",,biceps,machine,[],dfe44a95-752c-4640-aca2-7cc0cd8e414d,,"[""single arm machine preacher curl"", ""one arm preacher machine""]"
+"Concentration Curl (Dumbbell, Unilateral)",,biceps,dumbbell,[],51e219bb-78b9-42b0-9284-36d20557e3a1,,"[""concentration curl"", ""seated curl""]"
+Spider Curl (Dumbbell),,biceps,dumbbell,[],4f32e9a7-17b3-4c7e-a5f9-698a7b22a304,,"[""spider curl""]"
+Reverse Curl (Barbell),,forearms,barbell,"[""biceps""]",4be440cc-02a1-431c-8bc3-6822649ba95b,,"[""reverse curl"", ""overhand barbell curl""]"
+Reverse Curl (Cable),,forearms,cable,"[""biceps""]",96e7ff45-8ac9-4728-9e49-d3ff2fbd1c32,,"[""cable reverse curl"", ""cable overhand curl""]"
+Reverse Curl (Dumbbell),,forearms,dumbbell,"[""biceps""]",d5762ab1-05b3-4660-8190-7482de7bb3f0,,"[""dumbbell reverse curl"", ""db reverse curl""]"
+Zottman Curl (Dumbbell),,biceps,dumbbell,"[""forearms""]",193edb1c-792a-4b69-882c-c01274bb665f,,"[""zottman curl"", ""rotating curl""]"
+Triceps Pushdown (Cable),,triceps,cable,[],9bead67c-42d0-4f20-8001-634eea2867d0,,"[""tricep pushdown"", ""cable pushdown""]"
+"Triceps Pushdown (Cable, Rope)",,triceps,cable,[],29739823-e1e3-4ffe-a656-eef56edde142,,"[""rope pushdown"", ""rope tricep pushdown""]"
+Incline Triceps Pushdown (Cable),,triceps,cable,[],d70133e1-e6c5-47d4-872d-d833aa04f4a3,,"[""incline pushdown"", ""reverse grip pushdown"", ""underhand pushdown""]"
+"Triceps Extension (Cable, Unilateral)",,triceps,cable,[],61d558f3-f5cc-42b7-a782-92648589b4a4,,"[""single arm tricep extension"", ""one arm cable tricep""]"
+Overhead Triceps Extension (Cable),,triceps,cable,[],c3d82846-e19b-4f25-b19b-d65bce894951,,"[""overhead tricep extension cable"", ""cable overhead extension""]"
+Overhead Triceps Extension (Dumbbell),,triceps,dumbbell,[],9b74b564-4864-4914-ad0c-9ec1f2bdf127,,"[""overhead tricep extension"", ""dumbbell overhead tricep""]"
+"Overhead Triceps Extension (Barbell, EZ)",,triceps,barbell,[],94441563-0297-49bb-89a6-e8df806727b8,,"[""EZ bar overhead extension"", ""barbell overhead tricep""]"
+Overhead Triceps Extension (Machine),,triceps,machine,[],cddb4368-20f8-4eba-99df-7779948a20bf,,"[""machine overhead tricep"", ""machine overhead extension""]"
+Skull Crusher (Barbell),,triceps,barbell,[],9b82a0a4-e8f8-4cd8-a99a-22865518446f,,"[""skull crusher"", ""barbell skull crusher"", ""lying tricep extension""]"
+"Skull Crusher (Barbell, EZ)",,triceps,barbell,[],3da7d976-2e12-452a-9526-ae85fcaa8890,,"[""EZ skull crusher"", ""ez bar skull crusher""]"
+Skull Crusher (Dumbbell),,triceps,dumbbell,[],7a3b6699-f2e1-46bb-8e05-3cd52b27f934,,"[""dumbbell skull crusher"", ""db skull crusher""]"
+Triceps Kickback (Dumbbell),,triceps,dumbbell,[],24bf1076-1858-4427-9b82-03cebbf1c43a,,"[""tricep kickback"", ""dumbbell kickback""]"
+Triceps Kickback (Cable),,triceps,cable,[],4654286f-463d-4001-b496-5a4005907e29,,"[""cable kickback"", ""cable tricep kickback""]"
+Triceps Extension (Machine),,triceps,machine,[],4602c950-15d6-4787-b8a0-5eec512a5131,,"[""machine tricep extension"", ""tricep machine""]"
+Triceps Dips (Bodyweight),,triceps,bodyweight,[],ec031959-36ba-4589-9fab-3b71afe92e8e,,"[""tricep dips"", ""bench dips"", ""chair dips""]"
+Triceps Dips (Assisted),,triceps,assisted,[],ff4eda98-ddae-4e47-80ec-934aa695b950,,"[""assisted tricep dips"", ""assisted dips""]"
+Close-Grip Bench Press (Barbell),,triceps,barbell,"[""chest""]",b33ff637-f29d-4560-bf48-2302ec6d9b55,,"[""close grip bench"", ""close grip press"", ""CGBP""]"
+Wrist Curl (Barbell),,forearms,barbell,[],fa60ff29-1e6c-418c-860b-378040479789,,"[""wrist curl"", ""forearm curl""]"
+Wrist Curl (Dumbbell),,forearms,dumbbell,[],fb4ceb8e-67a5-47ef-90e0-2924c7fcef6f,,"[""dumbbell wrist curl""]"
+Reverse Wrist Curl (Barbell),,forearms,barbell,[],d60d8d6e-364d-4552-98cd-3d8f244de58e,,"[""reverse wrist curl""]"
+Reverse Wrist Curl (Dumbbell),,forearms,dumbbell,[],8999586f-6df9-4097-8804-ec0eedb7f4c2,,"[""dumbbell reverse wrist curl""]"
+Farmer Carry (Dumbbell),,forearms,dumbbell,"[""traps""]",7a7b90a4-1065-42f4-af3f-7fa6dec348de,,"[""farmer carry"", ""farmer walk"", ""dumbbell carry""]"
+Farmer Carry (Barbell),,forearms,barbell,"[""traps""]",438dede7-f13d-4fc9-b70a-d2ff9501b107,,"[""barbell farmer carry"", ""barbell farmer walk""]"
+Squat (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",1812f140-afda-4e45-a8f2-82b636d694f1,,"[""squat"", ""back squat"", ""barbell squat""]"
+Squat (Smith),,quads,smith,"[""glutes"", ""adductors""]",87e14e35-24ee-4e48-bc71-ee88ac596553,,"[""smith squat"", ""smith machine squat""]"
+Squat (Bodyweight),,quads,bodyweight,"[""glutes"", ""adductors""]",28f873b2-fde0-4b81-8002-56e71d3be1e1,,"[""bodyweight squat"", ""air squat"", ""bw squat""]"
+Front Squat (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",9e70d840-d2ac-4e95-ba00-b113ff6b2680,,"[""front squat"", ""barbell front squat""]"
+Goblet Squat (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",cd003932-acf2-4210-a141-daa5db0b8449,,"[""goblet squat"", ""dumbbell squat""]"
+Hack Squat (Low Stance),,quads,plate-loaded,"[""glutes"", ""adductors""]",6d683323-9f59-4180-914f-478ed585727a,,"[""hack squat"", ""machine hack squat""]"
+Hack Squat (High Stance),,glutes,plate-loaded,"[""quads"", ""adductors""]",dd498b50-dcc8-45b8-a077-8e281e0ed214,,"[""high stance hack squat""]"
+"Leg Press (Plate-Loaded, Low Stance)",,quads,plate-loaded,"[""glutes"", ""adductors""]",ecd7780b-c134-4f86-bb9f-5aa49c0f33ca,,"[""leg press"", ""plate loaded leg press""]"
+"Leg Press (Plate-Loaded, High Stance)",,glutes,plate-loaded,"[""quads"", ""adductors""]",1d28181f-575f-4b54-9e04-8cf8d7fe49cc,,"[""high stance leg press"", ""leg press high stance""]"
+"Leg Press (Machine, Low Stance)",,quads,machine,"[""glutes"", ""adductors""]",daf40bc7-ed68-4779-819b-cb62f60eec1c,,"[""machine leg press"", ""seated leg press""]"
+"Leg Press (Machine, High Stance)",,glutes,machine,"[""quads"", ""adductors""]",f034257e-74f0-489a-84bb-cf943fc17d07,,"[""machine leg press high stance""]"
+Leg Extension (Machine),,quads,machine,[],4cbcf65c-b39c-4e60-a29b-edcdfb373264,,"[""leg extension"", ""quad extension""]"
+"Leg Extension (Machine, Unilateral)",,quads,machine,[],ca0e4e25-9570-4cb1-b999-23f358642abd,,"[""single leg extension"", ""one leg extension""]"
+Lunge (Bodyweight),,quads,bodyweight,"[""glutes"", ""adductors""]",c8eb6eeb-3548-4730-8314-4a32de7c6dda,,"[""lunge"", ""forward lunge""]"
+Lunge (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",2606adb7-c578-4fcd-83c5-7bcf02e53aca,,"[""dumbbell lunge"", ""db lunge""]"
+Lunge (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",858dcf51-a879-45cd-83a8-c909cd12a816,,"[""barbell lunge""]"
+Walking Lunge (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",0456f443-a11b-4e1e-8b9f-25dfd486df5a,,"[""walking lunge"", ""dumbbell walking lunge""]"
+Walking Lunge (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",d5ea1529-bd03-4b5a-a819-3f03676930aa,,"[""barbell walking lunge""]"
+Reverse Lunge (Bodyweight),,quads,bodyweight,"[""glutes"", ""adductors""]",a8457245-5799-4c39-aada-8c4d1ab794be,,"[""reverse lunge"", ""step back lunge""]"
+Reverse Lunge (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",31376815-9293-4ea0-898e-11b0ba800acb,,"[""dumbbell reverse lunge""]"
+Reverse Lunge (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",c7c17d5a-7ba8-41d4-ae6c-564c0d007bea,,"[""barbell reverse lunge""]"
+Bulgarian Split Squat (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",cafd0ee7-b25f-4232-aad4-d631242ca79b,,"[""bulgarian split squat"", ""split squat"", ""rear foot elevated squat"", ""RFESS""]"
+Bulgarian Split Squat (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",ce77153b-58e9-45a1-97e8-a91ced5e9b6f,,"[""barbell bulgarian split squat"", ""barbell split squat""]"
+Bulgarian Split Squat (Smith),,quads,smith,"[""glutes"", ""adductors""]",54c03ce7-1fc6-4e7f-83ee-3ab209b96141,,"[""smith bulgarian split squat"", ""smith split squat""]"
+Step-Up (Dumbbell),,quads,dumbbell,"[""glutes"", ""adductors""]",e72d9e5e-62e3-4cd8-b145-1ff3ebde4b42,,"[""step up"", ""dumbbell step up"", ""box step up""]"
+Step-Up (Barbell),,quads,barbell,"[""glutes"", ""adductors""]",ae779563-3203-4090-af38-e8045b0bfaff,,"[""barbell step up""]"
+Sissy Squat (Bodyweight),,quads,bodyweight,[],194b1b82-335c-41d5-9a54-32dfeaeedec7,,"[""sissy squat""]"
+Sissy Squat (Machine),,quads,machine,[],93349207-e428-46a2-a010-4df0bab3b96e,,"[""machine sissy squat""]"
+Hip Thrust (Barbell),,glutes,barbell,"[""adductors"", ""hamstrings""]",67bbb5b2-6514-43f7-b07c-fdb25ae93f34,,"[""hip thrust"", ""barbell hip thrust"", ""glute thrust""]"
+Hip Thrust (Machine),,glutes,machine,"[""adductors"", ""hamstrings""]",d9b667ec-cf1e-43c6-9bce-49a07e4b92cb,,"[""machine hip thrust""]"
+Hip Thrust (Plate-Loaded),,glutes,plate-loaded,"[""adductors"", ""hamstrings""]",95c75de1-8025-45e6-a80f-4f6b0cbb06f0,,"[""plate loaded hip thrust""]"
+Hip Thrust (Dumbbell),,glutes,dumbbell,"[""adductors"", ""hamstrings""]",67b42934-7db3-440c-b0ca-fadd639b372d,,"[""dumbbell hip thrust"", ""db hip thrust""]"
+Hip Thrust (Smith),,glutes,smith,"[""adductors"", ""hamstrings""]",304039f2-3ad0-4baf-8bf4-0175540f1c38,,"[""smith hip thrust""]"
+Glute Bridge (Barbell),,glutes,barbell,"[""adductors"", ""hamstrings""]",389bae18-36fb-4f46-9561-6c2d6b3df43b,,"[""glute bridge"", ""barbell glute bridge"", ""hip bridge""]"
+Glute Bridge (Bodyweight),,glutes,bodyweight,"[""adductors"", ""hamstrings""]",ceb57a67-d602-4142-a6b4-3f965a414b0b,,"[""bodyweight glute bridge"", ""floor glute bridge""]"
+Glute Bridge (Dumbbell),,glutes,dumbbell,"[""adductors"", ""hamstrings""]",db7817cb-ee46-401e-88f5-5ab23d0ae2f5,,"[""dumbbell glute bridge"", ""weighted glute bridge""]"
+"Glute Bridge (Dumbbell, Unilateral)",,glutes,dumbbell,"[""adductors"", ""hamstrings""]",f2275827-6d3e-409c-82b1-e558b471d6da,,"[""single leg glute bridge""]"
+Sumo Squat (Dumbbell),,adductors,dumbbell,"[""glutes"", ""quads""]",608cc9b4-6620-4eb0-a38e-48a3d1ec6990,,"[""sumo squat"", ""plie squat"", ""dumbbell sumo squat""]"
+Kickback (Cable),,glutes,cable,[],65312699-5b47-414a-9509-5bc1da250e36,,"[""glute kickback cable"", ""cable glute kickback"", ""donkey kickback cable""]"
+Kickback (Machine),,glutes,machine,[],e15bb73d-a4d3-45c4-ac8b-64acae786403,,"[""glute kickback machine"", ""machine kickback""]"
+Hip Abduction (Machine),,glutes,machine,[],124c07ad-5b45-4850-aa86-2e3704d23642,,"[""hip abduction"", ""abductor machine"", ""outer thigh machine""]"
+Hip Abduction (Cable),,glutes,cable,[],1c358f01-591d-4569-9125-898516dcf290,,"[""cable hip abduction"", ""cable abduction""]"
+Hip Abduction (Band),,glutes,band,[],5b5bc906-1dad-492a-80c0-3b07f49a3c74,,"[""band hip abduction"", ""clamshell""]"
+Seated Leg Curl (Machine),,hamstrings,machine,[],2603277e-5cb9-4ada-9f0b-539f4a590eea,,"[""seated leg curl"", ""hamstring curl seated""]"
+Lying Leg Curl (Machine),,hamstrings,machine,[],2c81deba-836a-4744-9499-13473f46aab4,,"[""lying leg curl"", ""prone leg curl"", ""hamstring curl lying""]"
+Leg Curl (Cable),,hamstrings,cable,[],d5b1a473-359d-47c9-aa86-da30a1cb0448,,"[""cable leg curl"", ""cable hamstring curl""]"
+"Leg Curl (Cable, Unilateral)",,hamstrings,cable,[],d4d50c65-3e44-45cf-b2b0-659df8c4151f,,"[""single leg cable curl"", ""one leg cable curl""]"
+Nordic Curl (Bodyweight),,hamstrings,bodyweight,[],a9cc3cb7-e238-4759-83f4-8a818960b830,,"[""nordic curl"", ""nordic hamstring curl""]"
+Glute-Ham Raise (Bodyweight),,hamstrings,bodyweight,"[""glutes"", ""erectors""]",cd701882-c5c0-42d9-88c1-4036b1b9e855,,"[""glute ham raise"", ""GHR""]"
+Hip Adduction (Machine),,adductors,machine,[],6b2bc78a-66f0-4f7a-8484-c1febac2762b,,"[""hip adduction"", ""adductor machine"", ""inner thigh machine""]"
+Hip Adduction (Cable),,adductors,cable,[],d39d8c7c-0138-4804-8c4a-440ac0b07dcf,,"[""cable hip adduction"", ""inner thigh cable""]"
+Calf Raise (Machine),,calves,machine,[],25299857-ee8d-4d08-b811-56c31a59219b,,"[""calf raise"", ""standing calf raise machine""]"
+Seated Calf Raise (Machine),,calves,machine,[],eace12b6-6d69-4b65-bd35-349436efa1a5,,"[""seated calf raise""]"
+Calf Raise (Plate-Loaded),,calves,plate-loaded,[],575b5629-07fd-45bf-9602-312522bac477,,"[""plate loaded calf raise""]"
+Seated Calf Raise (Plate-Loaded),,calves,plate-loaded,[],2bdea2cc-99c0-4b9d-9c01-05c1c155df4c,,"[""plate loaded seated calf raise""]"
+Calf Raise (Smith),,calves,smith,[],ddc1398a-448c-40bc-a32c-73961d9dd6b0,,"[""smith calf raise""]"
+Calf Raise (Dumbbell),,calves,dumbbell,[],590296e7-aeb7-458b-80e8-40370eae2239,,"[""dumbbell calf raise"", ""db calf raise""]"
+Calf Raise (Barbell),,calves,barbell,[],497aba0a-23c9-449f-8078-df8d60204140,,"[""barbell calf raise""]"
+Calf Raise (Bodyweight),,calves,bodyweight,[],6a1119f6-2b41-4651-b793-204121a2f5d7,,"[""standing calf raise"", ""bodyweight calf raise""]"
+Donkey Calf Raise (Machine),,calves,machine,[],3a0f8931-1cc2-451b-b70d-56c677cbc5ea,,"[""donkey calf raise""]"
+Calf Press (Plate-Loaded),,calves,plate-loaded,[],32a4eec1-5940-405a-9049-79d413e52802,,"[""calf press"", ""leg press calf raise""]"
+"Calf Press (Plate-Loaded, Unilateral)",,calves,plate-loaded,[],af671dc6-3778-46ac-b23c-cd1ad5ee01a1,,"[""single leg calf press""]"
+Calf Press (Machine),,calves,machine,[],c34eced6-af58-430f-81eb-e412c6232eef,,"[""machine calf press""]"
+Calf Raise (Machine),,calves,machine,[],8892509d-4411-43cf-9606-6a76a7cf42a9,,"[""calf raise"", ""standing calf raise machine""]"
+"Calf Raise (Machine, Unilateral)",,calves,machine,[],fcd2d10f-12b9-41b9-ba1c-67aeeeb4eba9,,"[""single leg calf raise"", ""one leg calf raise""]"
+Crunch (Bodyweight),,abs,bodyweight,[],251cba9f-8312-4670-a2b3-5365d78123c5,,"[""crunch"", ""ab crunch""]"
+Crunch (Cable),,abs,cable,[],632958b8-ff9c-4e99-b24a-dcff9be42e7a,,"[""cable crunch"", ""kneeling cable crunch""]"
+Crunch (Machine),,abs,machine,[],b7be8b64-e0ab-41b0-8707-d8915bf6fb60,,"[""machine crunch"", ""ab machine""]"
+Decline Crunch (Bodyweight),,abs,bodyweight,[],57f2eb05-913f-4dd6-a434-c008f063a8af,,"[""decline crunch"", ""decline sit up""]"
+Sit-Up (Bodyweight),,abs,bodyweight,[],7a85fced-43a9-4fea-b115-f98ac0228c11,,"[""sit up"", ""situp""]"
+Leg Raise (Bodyweight),,abs,bodyweight,[],bec683df-9afa-44b3-a5e1-00f826aace77,,"[""leg raise"", ""lying leg raise""]"
+Hanging Leg Raise (Bodyweight),,abs,bodyweight,[],dbb32d12-bbc4-4144-9ae9-8aab039b12f3,,"[""hanging leg raise"", ""hanging knee raise""]"
